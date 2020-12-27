@@ -1,0 +1,17 @@
+.container {
+    background-color: blue;
+    height: 100%;
+}
+
+img {
+    height: auto;
+    width: 100%;
+}
+
+.card {
+    margin: 20px auto;
+}
+
+.card-deck {
+    display: flex;
+}
